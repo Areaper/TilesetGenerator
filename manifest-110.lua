@@ -1,8 +1,6 @@
 files = {
 ["conf.lua"] = true,
-["main.lua"] = true,
-["Do NOT Delete This Either.png"] = true,
-["DO NOT Remove This.png"] = true
+["main.lua"] = true
 }
 
 notes = [[
